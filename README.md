@@ -34,11 +34,13 @@ Hypertension
 Healthy individuals
 
 This helps identify how diet and nutrition relate to different health conditions.
+
 ![Nutrition and Disease Analysis](dashboard.png)
 
 3. Averages by Breakfast Suggestions
 
 This section analyzes average nutritional values from breakfast food suggestions. It helps identify which foods provide better nutritional balance for starting the day.
+
 ![Averages By Breakfast Suggestions](dashboard.png)
 
 4. Lifestyle & Nutrition Impact
@@ -52,6 +54,7 @@ Lightly Active
 Extremely Active
 
 This helps understand how lifestyle habits influence nutritional needs.
+
 ![Lifestyle & Nutrition Impact](dashboard.png)
 
 Key Metrics
