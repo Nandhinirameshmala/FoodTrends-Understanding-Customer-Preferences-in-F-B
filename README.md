@@ -23,7 +23,7 @@ Vegan
 
 It helps understand how dietary choices are distributed among participants.
 
-![Dietary Preferences and Averages](dashboard.png)
+<img src="Dietary Preferences and Averages/image.png" alt="Image">
 
 2. Nutrients and Disease
 
