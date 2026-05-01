@@ -28,9 +28,24 @@ The dashboard provides insights into how food choices vary based on health condi
 
 ---
 
-## 🖼️ Dashboard Preview
+## 🖼️ Dashboard 1:
 <p align="center">
-  <img src="dashboard-preview.png" width="800"/>
+  <img src="Dietary Preferences and Averages.png" width="800"/>
+</p>
+
+## 🖼️ Dashboard 2:
+<p align="center">
+  <img src="Lifestyle & Nutrition Impact.png" width="800"/>
+</p>
+
+## 🖼️ Dashboard 3:
+<p align="center">
+  <img src="Nutrients and Disease.png" width="800"/>
+</p>
+
+## 🖼️ Dashboard 4:
+<p align="center">
+  <img src="Averages by Breakfast Suggestions.png" width="800"/>
 </p>
 
 ---
